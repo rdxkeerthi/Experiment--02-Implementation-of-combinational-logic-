@@ -9,8 +9,8 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
  
  
 ## Equipments Required:
-## Hardware – PCs, Cyclone II , USB flasher
-## Software – Quartus prime
+ Hardware – PCs, Cyclone II , USB flasher
+ Software – Quartus prime
 
 
 ## Theory
@@ -49,7 +49,9 @@ according to the Truth Table and then simulate the Output Waveform.
 
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: keerthivasan M
+
 RegisterNumber: 23014067
+
 ![de2 2](https://github.com/rdxkeerthi/Experiment--02-Implementation-of-combinational-logic-/assets/147473120/c2ed5ab6-70f5-415e-8840-a7d62660bcae)
 ## RTL realization
 ![de2 3](https://github.com/rdxkeerthi/Experiment--02-Implementation-of-combinational-logic-/assets/147473120/9defe58e-3984-4fd8-90d5-70dbd2504888)
